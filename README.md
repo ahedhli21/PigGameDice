@@ -5,3 +5,6 @@
 
 ## In each turn, a player rolls a dice as many times as he whishes. Each result get added to his ROUND score
 ![capture](images/Capture.PNG)
+#
+## The first player to reach 20 points on GLOBAL score wins the game
+
