@@ -7,4 +7,5 @@
 ![capture](images/Capture.PNG)
 #
 ## The first player to reach 20 points on GLOBAL score wins the game
+![capture](images/Capture2.PNG)
 
